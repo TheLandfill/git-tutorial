@@ -30,3 +30,4 @@
 	4.	git push origin master
 	5.	Tell everyone else to use git fetch
 8.	Repeat steps 2 to 7 until the end of everything.
+
